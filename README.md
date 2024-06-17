@@ -11,6 +11,3 @@ class SoftwareEngineer {
 	
 } 
 ```
-
-_I love connecting with different people so if you want to say hi, DM me on LinkedIn! :)_
-[ <img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="15" /> LinkedIn](https://www.linkedin.com/in/ayyoub-essadeq)
